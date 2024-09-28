@@ -1,12 +1,13 @@
-# AutoTok
 
-<p style="text-align:center;">
-    <b><i>- Do what others do, but better and faster.</i></b>
+<p align="center">
+  <img src="https://github.com/autotok/.github/blob/main/img/autotok.png" alt="AutoTok Logo" widht="180" height="180"/>
 </p>
 
 <p align="center">
-  <img src="./img/autotok.png" />
+    <b><i>- Do what others do, but better and faster.</i></b>
 </p>
+
+# AutoTok
 
 AutoTok is a tool developed specifically for content creators who want to adjust to new trends in social media and automate their content production tasks.
 
