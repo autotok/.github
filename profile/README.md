@@ -1,12 +1,17 @@
-## WIP
+# AutoTok
 
-<!--
+<p style="text-align:center;">
+    <b><i>- Do what others do, but better and faster.</i></b>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="./img/autotok.png" />
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AutoTok is a tool developed specifically for content creators who want to adjust to new trends in social media and automate their content production tasks.
+
+A tool optimised and updated to generate and upload content in the latest and most popular formats available to its users.
+
+If you are looking for a service that in a few steps can generate multimedia content for the coming weeks, then consider taking a look at this project.
+
+For more information, please visit [our webpage](WIP)
